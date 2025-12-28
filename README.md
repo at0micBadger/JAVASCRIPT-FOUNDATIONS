@@ -8,4 +8,4 @@ A numbered file ex: 08 <filename> simply refers to a file on basic theory.
 
 a number that starts with a P is a general program corresponding to the current level of theory.
 
-A PX file is experimental. slightly ahead of the current theory level.
+A PX file is experimental. slightly ahead of the current theory level. It may include dynamics not yet discussed or explained.
