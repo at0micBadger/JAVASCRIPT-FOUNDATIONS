@@ -22,6 +22,9 @@
 14  Functions Introduction<br>
 14A  node-calc.js<br>
 15  Parameters and Arguments<br>
+16  Return Values<br>
+17  Scope<br>
+18  Arrow Functions<br>
 
 
 
