@@ -15,6 +15,13 @@
 10   Input Methods<br>
 10A  info-app.js<br>
 11   Selection Methods<br>
+11A  temp-convert.js<br>
+12   Loops<br>
+12A  jack_3.js<br>
+13  Loops with Input<br>
+14  Functions Introduction<br>
+14A  node-calc.js<br>
+15  Parameters and Arguments<br>
 
 
 
